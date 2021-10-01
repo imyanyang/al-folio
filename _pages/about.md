@@ -6,7 +6,7 @@ description: <a href="https://smith.queensu.ca/index.php">Smith School of Busine
 
 profile:
   align: right
-  image: YanYang_image.jpg
+  image: YanYang_image.JPG
  
 
 news: false  # includes a list of news items
