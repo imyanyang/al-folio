@@ -17,7 +17,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am a fourth-year Ph.D. student in finance.
 
-My research interests lie in the general area of empirical corporate finance, particularly in debt structue, corporate financial distress, entrepreneurship finance, and financial institutions. 
+My research interests lie in the general area of empirical corporate finance, including debt structue, corporate financial distress, entrepreneurial finance, and financial institutions. I am particularly interested in understanding incentive and information problems in financial economics.
 
 `Email:` yan.yang@queensu.ca
 
